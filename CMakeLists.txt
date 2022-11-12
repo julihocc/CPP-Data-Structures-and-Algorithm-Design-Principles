@@ -4,3 +4,5 @@ project(CPP_Data_Structures_and_Algorithm_Design_Principles)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(CPP_Data_Structures_and_Algorithm_Design_Principles main.cpp)
+
+add_executable(Activity1 Lesson1/Activity01/Activity1.cpp)

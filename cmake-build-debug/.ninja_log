@@ -1,3 +1,6 @@
 # ninja log v5
 0	279	6898096346180224	CMakeFiles/CPP_Data_Structures_and_Algorithm_Design_Principles.dir/main.cpp.obj	406ce01d823d7f6d
 281	374	6898096347135352	CPP_Data_Structures_and_Algorithm_Design_Principles.exe	5c349733aed1bfd8
+4	158	6898102531511394	build.ninja	26f60c2e22e0d475
+1	353	6898102866855729	CMakeFiles/Activity1.dir/Lesson1/Activity01/Activity1.cpp.obj	8c7fad5b0713b098
+353	464	6898102867960927	Activity1.exe	fa65803b1bc90401

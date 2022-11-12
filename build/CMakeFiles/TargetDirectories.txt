@@ -1,0 +1,3 @@
+C:/Users/julih/OneDrive/Escritorio/CPP-Data-Structures-and-Algorithm-Design-Principles/build/CMakeFiles/CPP_Data_Structures_and_Algorithm_Design_Principles.dir
+C:/Users/julih/OneDrive/Escritorio/CPP-Data-Structures-and-Algorithm-Design-Principles/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/julih/OneDrive/Escritorio/CPP-Data-Structures-and-Algorithm-Design-Principles/build/CMakeFiles/ZERO_CHECK.dir
